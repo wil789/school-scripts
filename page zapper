@@ -1,0 +1,1 @@
+javascript:(function(){var t=document.createElement("script");t.setAttribute("src","//d2z4mgf8zqkbu2.cloudfront.net/bookmarklets/killzapper."+Math.random()+".js"),document.body.appendChild(t)})();
