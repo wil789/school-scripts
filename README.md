@@ -1,5 +1,5 @@
 # school-scripts
-to see the code click on the title 
+to see the code click on the title of the script you want to see
 ________________________________________________________________________________________________________________________
 to add the bookmark to your bookmark bar just triple click or highlight it and drag it to your bar, 
 you can also copy the code, right click, or double on your bookmark bar and add new page, add the code into the URL box
