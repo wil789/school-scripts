@@ -7,3 +7,4 @@ ________________________________________________________________________________
 titles are change-able
 if you have any issues report them into issues
 ________________________________________________________________________________________________________________________
+everything is licensed under https://unlicense.org/
